@@ -1,4 +1,4 @@
-# Signal-Processing-2---Source_Separation_and_Ideal_Masking_for_Audio-Motor_Imagery_Classification-
+# Signal-Processing-2
 
 Source Separation in Audio using ICA (Independent Component Analysis). 
 
